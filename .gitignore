@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# this machine's measurements and everything recorded: never in the repository
+settings/config.json
+settings/camera.json
+settings/camera_corners.npz
+settings/current_calibration.txt
+data/

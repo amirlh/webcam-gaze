@@ -1,0 +1,14 @@
+{
+ "screen_width_cm": 34.5,
+ "screen_height_cm": 21.5,
+ "screen_width_px": 3840,
+ "screen_height_px": 2400,
+ "camera_from_left_edge_cm": 17.25,
+ "camera_above_top_edge_cm": 0.5,
+ "camera_tilt_deg": 0.0,
+ "camera_index": 0,
+ "camera_width": 1920,
+ "camera_height": 1080,
+ "camera_fps": 30,
+ "camera_mjpg": true
+}
